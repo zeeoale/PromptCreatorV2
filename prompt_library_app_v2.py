@@ -16,7 +16,7 @@ openai.api_key = "INSERT_YOUR_API_KEY_HERE"
 class PromptApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("TRAUMA Prompt Generator")
+        self.setWindowTitle("traumakom Prompt Generator")
         self.setGeometry(100, 100, 900, 600)
         self.setStyleSheet("background-color: #222; color: white; font-size: 16px;")
         
@@ -32,7 +32,7 @@ class PromptApp(QWidget):
         left_layout.addWidget(logo_label)
 
         # === Selettore mondo ===
-        world_label = QLabel("Scegli il Mondo")
+        world_label = QLabel("Choose World")
         self.version_selector = QComboBox()
         
 
@@ -104,7 +104,7 @@ class PromptApp(QWidget):
         left_layout.addStretch()
 
         # === Output Prompt ===
-        self.output_label = QLabel("Prompt Generato")
+        self.output_label = QLabel("Generated Prompt")
         self.output_label.setAlignment(Qt.AlignCenter)
         self.output = QTextEdit()
         self.output.setReadOnly(True)
