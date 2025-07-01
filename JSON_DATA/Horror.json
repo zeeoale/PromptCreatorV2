@@ -1,0 +1,18 @@
+{
+  "EPOCHS": ["Victorian", "Post-apocalyptic", "Medieval", "1940s asylum", "Silent Hill inspired", "Resident Evil inspired", "Lovecraftian horror", "Gothic horror", "Psychological thriller", "Body horror"],
+  "OUTFITS": ["torn hospital gown", "blood-stained dress", "ritual robe", "straitjacket", "scorched cloak"],
+  "LIGHTING": ["flickering candlelight", "greenish fog", "full moon glow", "harsh surgical light", "dim and pulsating light"],
+  "BACKGROUNDS": ["abandoned asylum", "dark forest with whispers", "rotting village", "foggy graveyard", "desecrated chapel"],
+  "OBJECTS": ["rusty scalpel", "demonic tome", "burned doll", "severed mannequin hand", "bloodied chains", "Lovecraftian idol"],
+  "POSES": ["crouched with trembling limbs", "floating in mid-air", "reaching toward viewer", "slouched with empty eyes"],
+  "EXPRESSIONS": ["twisted grin", "blank stare", "screaming in agony", "possessed smile", "hollow eyes"],
+  "CAMERA_ANGLES": ["worm's eye view", "over-the-shoulder from behind", "distorted fisheye close-up"],
+  "ATMOSPHERES": ["thick with tension", "echoing silence", "drenched in dread", "filled with whispers"],
+  "ACCESSORIES": ["bloody bandages", "moth-covered veil", "cursed locket", "broken mirror shard"],
+  "HORROR_INTENSITY": {
+    "Low": "Subtle shadows move in the background, with a constant sense of being watched.",
+    "Medium": "Ominous sounds echo around, as the air grows heavier with unseen dread.",
+    "High": "The scene oozes terror—distorted reality, blood trails, and unseen horrors lurking just beyond sight.",
+    "Extreme": "Pure nightmare fuel: flesh walls, inverted faces, blood raining from nowhere, and an unbearable screech of something ancient approaching."
+  }
+}

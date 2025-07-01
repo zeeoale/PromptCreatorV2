@@ -1,0 +1,80 @@
+{
+  "EPOCHS": ["Resident Evil"],
+
+  "BACKGROUNDS": [
+    "abandoned hospital",
+    "underground laboratory",
+    "decaying city street",
+    "foggy graveyard",
+    "quarantined biohazard zone",
+    "derelict police station",
+    "flooded subway tunnel",
+    "Police station lobby"
+  ],
+  "OUTFITS": [
+    "tactical vest",
+    "bloodstained lab coat",
+    "survivor gear with flashlight",
+    "military uniform",
+    "biohazard suit",
+    "combat boots",
+    "torn hoodie"
+  ],
+  "OBJECTS": [
+    "zombie dog",
+    "broken syringe",
+    "rusty axe",
+    "green herb vial",
+    "flickering monitor",
+    "locked briefcase",
+    "bloody typewriter",
+    "handgun with flashlight attachment"
+  ],
+  "LIGHTING": [
+    "emergency red lights",
+    "flickering ceiling bulbs",
+    "dim flashlight beam",
+    "moonlight through broken windows"
+  ],
+  "POSES": [
+    "aiming a weapon",
+    "bracing behind a wall",
+    "sprinting through rubble",
+    "crouching in fear",
+    "standing defiantly amidst chaos"
+  ],
+  "EXPRESSIONS": [
+    "with a grim determination",
+    "with bloodshot eyes of fear",
+    "with a cold, hardened stare",
+    "with a face twisted in pain",
+    "with an exhausted but unyielding gaze"
+  ],
+  "CAMERA_ANGLES": [
+    "over-the-shoulder shot",
+    "close-up of blood-splattered face",
+    "low angle from the floor",
+    "first-person survivor perspective",
+    "wide shot through cracked glass"
+  ],
+  "ATMOSPHERES": [
+    "air thick with dust and decay",
+    "faint sirens echoing in the distance",
+    "spores floating through the air",
+    "distant screams reverberating",
+    "surreal green fog filtering the light"
+  ],
+  "ACCESSORIES": [
+    "with a backpack full of supplies",
+    "gas mask hanging from the neck",
+    "wearing dog tags",
+    "makeshift bandages around the arms",
+    "bloody fingerprints on their cheek"
+  ],
+  "HORROR_INTENSITY": {
+    "Tense": "as if danger lurks just around every corner",
+    "Panic": "with monsters closing in and nowhere left to run",
+    "Desperation": "the last bullet, the final scream, no one coming to help",
+    "Outbreak": "the world swallowed whole by infection and chaos"
+  }
+}

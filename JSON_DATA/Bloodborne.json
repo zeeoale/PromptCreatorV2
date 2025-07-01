@@ -1,0 +1,78 @@
+{
+  "EPOCHS": [
+    "Late Victorian Yharnam-style", 
+    "Night of the Hunt", 
+    "Plagued gothic city", 
+    "Cathedral Ward ruins", 
+    "Dream realm"
+  ],
+  "OUTFITS": [
+    "Hunter attire soaked in blood", 
+    "Executioner's garb", 
+    "Old Hunter cloak", 
+    "Church servant robes", 
+    "Vileblood queen dress"
+  ],
+  "LIGHTING": [
+    "blood moon glow", 
+    "dim lantern flicker", 
+    "haze of burning incense", 
+    "ashen dusk", 
+    "shifting dreamlight"
+  ],
+  "BACKGROUNDS": [
+    "abandoned healing church", 
+    "blood-drenched alley", 
+    "forbidden forest", 
+    "nightmare frontier", 
+    "Great One altar"
+  ],
+  "OBJECTS": [
+    "saw cleaver", 
+    "old bell of summoning", 
+    "insight skull", 
+    "vial of pale blood", 
+    "arcane lantern", 
+    "beast-scarred relic"
+  ],
+  "POSES": [
+    "kneeling in ritual", 
+    "swinging a transformed weapon", 
+    "staggering from madness", 
+    "looking up in silent prayer", 
+    "standing triumphant over a slain beast"
+  ],
+  "EXPRESSIONS": [
+    "haunted gaze", 
+    "blood-drunk smile", 
+    "whispering lips", 
+    "blank eyes filled with stars", 
+    "wild with frenzy"
+  ],
+  "CAMERA_ANGLES": [
+    "low angle through mist", 
+    "close-up with blood splatter", 
+    "overhead from cathedral rafters", 
+    "Dutch angle from behind tombstones"
+  ],
+  "ATMOSPHERES": [
+    "choked with fog and whispers", 
+    "thick incense and blood scent", 
+    "echoes of weeping and scratching claws", 
+    "time seems twisted and looping"
+  ],
+  "ACCESSORIES": [
+    "hunter's mark", 
+    "blood-soaked gloves", 
+    "silver ritual pendant", 
+    "eyeball ring", 
+    "crow-feather brooch"
+  ],
+  "HORROR_INTENSITY": {
+  "Cursed": "shadows coil and whisper, as if cursed blood stains the air",
+  "Beastly": "feral instincts rage within, claws scraping at the edge of sanity",
+  "Frenzied": "a violent ecstasy pulses through the fog, uncontrollable and mad",
+  "Eldritch": "tentacles writhe from the void, reality bending around them",
+  "Wrath of the Great Ones": "cosmic judgment descends, minds unravel beneath ancient stars"
+}
+}

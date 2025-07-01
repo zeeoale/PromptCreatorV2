@@ -1,0 +1,75 @@
+{
+  "EPOCHS": [
+    "Candy Kingdom",
+    "Rainbow Fields",
+    "Glittery Space Realm",
+    "Pastel Dreamland",
+    "Floating Marshmallow Isles"
+  ],
+  "OUTFITS": [
+    "sparkling saddle with bows",
+    "pastel-striped cloak",
+    "glitter armor made of sugar crystals",
+    "rainbow tutu",
+    "bubble-wrap gown"
+  ],
+  "LIGHTING": [
+    "bathed in rainbow light",
+    "under soft pink twilight",
+    "glowing with magical sparkles",
+    "lit by flying glowing butterflies",
+    "surrounded by beams of joy"
+  ],
+  "BACKGROUNDS": [
+    "a meadow of singing flowers",
+    "a sky path made of light",
+    "a cupcake village",
+    "a crystal castle floating on clouds",
+    "a valley of giant lollipops"
+  ],
+  "OBJECTS": [
+    "a mystical unicorn",
+    "Magical Pastel Ponies"
+  ],
+  "POSES": [
+    "galloping through a rainbow field",
+    "sitting on a fluffy cloud",
+    "rearing up with sparkling energy",
+    "dancing on a giant cupcake",
+    "flying in a loop-de-loop"
+  ],
+  "EXPRESSIONS": [
+    "with an excited grin",
+    "with sparkly eyes full of wonder",
+    "with a look of mischief and magic",
+    "with cheeks puffed from too many sweets",
+    "with a dreamy, enchanted gaze"
+  ],
+  "CAMERA_ANGLES": [
+    "top-down view with rainbow trails",
+    "low-angle with a magical glow",
+    "zoomed-in on sparkling eyes",
+    "wide-angle showing enchanted fields",
+    "circular tracking around the pony"
+  ],
+  "ATMOSPHERES": [
+    "cotton candy clouds swirling overhead",
+    "twinkling stars falling like glitter",
+    "floating heart-shaped bubbles",
+    "a swirl of pastel mist",
+    "rainbow sparkles drifting in the wind"
+  ],
+  "ACCESSORIES": [
+    "a tiara made of candy",
+    "sparkling boots with bows",
+    "a magical pendant that glows",
+    "a tail ribbon enchanted with light",
+    "heart-shaped sunglasses"
+  ],
+  "HORROR_INTENSITY": {
+    "Sparkly": "glowing with pure friendship energy",
+    "Magical": "as if joy and kindness could cast spells",
+    "Epic": "heroic light bursting through the skies in harmony",
+    "Legendary": "a harmony so radiant it reshapes the land"
+  }
+}

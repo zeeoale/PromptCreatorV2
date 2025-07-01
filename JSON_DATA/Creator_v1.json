@@ -1,0 +1,128 @@
+{
+    "EPOCHS": [
+        "Ancient Greece",
+        "Victorian Era",
+        "Cyberpunk",
+        "Dark Middle Ages",
+        "Dystopian Future",
+        "1980s",
+        "Feudal Japan",
+        "Distorted Present",
+        "Ancient Egypt",
+        "Post-apocalyptic Ruins",
+        "Neo-Roman Empire",
+        "Haunted Belle Époque",
+        "Lost Atlantis",
+        "Dieselpunk Era",
+        "Renaissance Twilight",
+        "Frozen Future",
+        "Arcane Industrial Age"
+    ],
+    "OUTFITS": [
+        "draped white tunic",
+        "leather armor",
+        "decorated silky kimono",
+        "bikini armor",
+        "evening gown with a train",
+        "worn-out space suit",
+        "black ritual robes",
+        "Latext dress",
+        "straitjacket",
+        "tattered Victorian corset",
+        "insect-like biomechanical armor",
+        "low-cut dress",
+        "bloodstained opera gown",
+        "baroque dress with mechanical wings",
+        "plague doctor cloak",
+        "crimson velvet overcoat",
+        "corset laced with thorns",
+        "nun habit corrupted by decay"
+    ],
+    "LIGHTING": [
+        "lit by flickering neon blue and pink lights",
+        "lit by trembling candles",
+        "backlit by the setting sun",
+        "bathed in greenish glow",
+        "under the cold light of a full moon",
+        "cast in bioluminescent fog"
+    ],
+    "BACKGROUNDS": [
+        "space hangar on Mars",
+        "ruined gothic cathedral",
+        "cursed forest",
+	"post apocalyptic japan city",
+        "rain-soaked alley",
+        "dark corridors of an abandoned asylum",
+        "submerged ancient temple",
+        "infinite mirrors in a red room",
+        "crater on a forgotten moon",
+        "an abandoned theatre with velvet curtains torn",
+        "foggy moorlands with crumbling stone circles",
+        "a castle sinking into the earth",
+        "a bloodstained marble ballroom",
+        "underground shrine lit by floating candles"
+    ],
+    "OBJECTS": [
+        "broken dolls at her feet",
+        "a shattered hourglass",
+        "a glowing orb floating above her hand",
+        "a rusted sword embedded in the ground",
+        "a holographic map of a dystopian city",
+        "skulls",
+        "bones",
+        "a book of forbidden knowledge",
+        "a shattered mirror reflecting her image",
+        "an antique music box still playing",
+        "a mirror with swirling smoke inside",
+        "a lantern that casts no shadow",
+        "a cage with a beating heart inside",
+        "a bouquet of dried, blackened roses",
+        "an ancient mask split in half",
+        "a black cat",
+	"a Japanese Dragon",
+	"a Dinosaur"
+    ],
+    "POSES": [
+        "kneeling in prayer",
+        "floating mid-air",
+        "leaning against a wall",
+        "running through fog",
+        "arms wide open as if invoking something",
+        "sitting on the edge of a broken throne"
+    ],
+    "EXPRESSIONS": [
+        "with a sorrowful gaze",
+        "with a haunting smile",
+        "with eyes full of rage",
+        "with a calm, unreadable face",
+        "with an expression of divine ecstasy"
+    ],
+    "CAMERA_ANGLES": [
+        "low-angle shot",
+        "high-angle shot",
+        "extreme close-up",
+        "over-the-shoulder view",
+        "cinematic wide shot",
+        "bird's-eye view"
+    ],
+    "ATMOSPHERES": [
+        "thick swirling mist",
+        "ash falling like snow",
+        "strange glowing particles in the air",
+        "shattered glass suspended mid-air",
+        "red fog crawling on the ground"
+    ],
+    "ACCESSORIES": [
+        "wearing a black tie",
+        "with chains hanging from her wrists",
+        "a crown of thorns",
+        "necklace made of tiny bones",
+        "a holographic veil"
+    ],
+    "HORROR_INTENSITY": {
+        "Suggestive": "with a mysterious aura and a latent sense of unease",
+        "Unsettling": "with empty eyes that stare into the soul, oppressive silence",
+        "Terrifying": "surrounded by inhuman screams, invisible presences crawling",
+        "Nightmarish": "as if reality itself is melting around her"
+    }
+}

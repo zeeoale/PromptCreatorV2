@@ -1,0 +1,88 @@
+{
+  "EPOCHS": [
+    "Feudal Japan",
+    "Edo Period",
+    "Mythical Shinto Realm",
+    "Samurai Era",
+    "Post-war Showa Period",
+    "Modern Japan",
+    "Future Tokyo"
+  ],
+  "OUTFITS": [
+    "black and gold kimono",
+    "white yukata with sakura patterns",
+    "samurai armor",
+    "shrine maiden robes",
+    "onna-bugeisha attire",
+    "traditional haori and hakama",
+    "Cyberpunk streetwear with neon accents",
+    "modern casual wear with Japanese motifs"
+  ],
+  "LIGHTING": [
+    "soft sakura-filtered sunlight",
+    "glow of paper lanterns",
+    "moonlight through temple gates",
+    "dappled forest shade",
+    "Neon Light"
+  ],
+  "BACKGROUNDS": [
+    "bamboo forest",
+    "torii gate at dawn",
+    "mountain shrine in the mist",
+    "quiet zen garden",
+    "cherry blossom hill",
+    "snowy onsen village",
+    "ancient Kyoto street at night",
+    "paper lantern-lit alleyway",
+    "sacred Shinto shrine",
+    "Cyberpunk Tokyo",
+    "Modern Tokyo (Shibuya)"
+  ],
+  "OBJECTS": [
+    "kitsune mask on the ground",
+    "japanese parasol resting beside her",
+    "paper fan with kanji characters",
+    "bento box unopened",
+    "wooden geta sandals",
+    "shamisen lying in the grass"
+  ],
+  "POSES": [
+    "kneeling in a tea ceremony",
+    "standing under falling cherry blossoms",
+    "holding a katana with grace",
+    "meditating on a rock by a stream"
+  ],
+  "EXPRESSIONS": [
+    "serene and composed",
+    "gentle smile of peace",
+    "focused warrior gaze",
+    "dreamy and distant"
+  ],
+  "CAMERA_ANGLES": [
+    "low-angle with cherry petals in foreground",
+    "side profile under lantern light",
+    "front view with temple in background",
+    "top-down shot with rock garden symmetry"
+  ],
+  "ATMOSPHERES": [
+    "falling sakura petals",
+    "glowing kitsune spirits",
+    "torii gate shrouded in mist",
+    "tatami texture in the air",
+    "futuristic skyscraper"
+  ],
+  "ACCESSORIES": [
+    "kitsune mask",
+    "japanese parasol",
+    "paper fan with kanji",
+    "koi fish tattoo",
+    "bento box",
+    "wooden geta sandals",
+    "shamisen instrument"
+  ],
+  "HORROR_INTENSITY": {
+    "Whispered Shadows": "as if unseen spirits pass silently through bamboo groves",
+    "Silent Ancestry": "the air carries echoes of ancient swords and sorrowful vows",
+    "Haunting Elegance": "beauty laced with melancholy, as if haunted by forgotten love"
+  }
+}

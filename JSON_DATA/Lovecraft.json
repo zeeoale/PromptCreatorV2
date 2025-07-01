@@ -1,0 +1,83 @@
+{
+  "EPOCHS": [
+    "Elder Time",
+    "Doomed 1920s",
+    "Forgotten Mythic Aeons",
+    "Prehuman Ages beneath the Ice",
+    "Unrecorded Histories of Sunken R'lyeh"
+  ],
+  "OUTFITS": [
+    "tattered cultist robes",
+    "1920s academic explorer gear",
+    "blood-soaked ceremonial garb",
+    "deep-sea diver suit, rusted and cracked",
+    "Victorian mourning dress"
+  ],
+  "LIGHTING": [
+    "pale sickly green glow",
+    "flickering candlelight from melting wax",
+    "darkness so dense it feels alive",
+    "shifting shadows moving on their own",
+    "twilight under a dying sun"
+  ],
+  "BACKGROUNDS": [
+    "ancient ruins beneath the sea",
+    "forgotten libraries bound in human skin",
+    "fog-shrouded fishing village",
+    "cyclopean city of non-Euclidean geometry",
+    "subterranean temple echoing with whispers",
+    "alien landscape beneath twin black suns"
+  ],
+  "OBJECTS": [
+    "the Necronomicon",
+    "a black stone idol",
+    "strange glyphs etched in bone",
+    "ancient relic pulsating with dread",
+    "lantern casting unnatural shadows",
+    "Cthulhu emerge from the depths",
+    "Nyarlathotep in a swirling mist",
+    "Yog-Sothoth as a shimmering portal",
+    "silver dagger inscribed with madness"
+  ],
+  "POSES": [
+    "kneeling before an unseen altar",
+    "reaching into a void of swirling stars",
+    "standing at the edge of reality",
+    "tracing glyphs on ancient stone",
+    "sinking slowly into abyssal waters"
+  ],
+  "EXPRESSIONS": [
+    "with eyes wide in ecstatic horror",
+    "with a maddened grin",
+    "with vacant gaze lost to time",
+    "with trembling lips whispering forbidden names",
+    "with expressionless dread"
+  ],
+  "CAMERA_ANGLES": [
+    "from beneath as if from the earth itself",
+    "from high above as if watched by a god",
+    "distorted wide-angle",
+    "fish-eye perspective",
+    "tilted frame as if reality bends"
+  ],
+  "ATMOSPHERES": [
+    "air thick with decay and whispering wind",
+    "fog crawling with tendrils of shadow",
+    "rain of black ichor",
+    "faint chanting in forgotten tongues",
+    "reality shimmering at the edges"
+  ],
+  "ACCESSORIES": [
+    "necklace of tiny bones",
+    "eyeless mask",
+    "tome chained to the wrist",
+    "amulet pulsing with vile energy",
+    "gloves stained with ancient blood"
+  ],
+  "HORROR_INTENSITY": {
+    "Suggestive": "as if something ancient lingers just out of sight",
+    "Unsettling": "surrounded by symbols that seem to move on their own",
+    "Terrifying": "with screams buried in silence, and flesh that forgets its shape",
+    "Nightmarish": "as if the world is but a veil over a deeper, dying madness"
+  }
+}
