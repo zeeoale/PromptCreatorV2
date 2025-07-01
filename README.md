@@ -10,6 +10,8 @@ This tool is designed to work with:
 
 ---
 
+![preview](./preview.png)
+
 ## 🧰 Features
 
 - Browse prompts organized by category (via JSON files)
