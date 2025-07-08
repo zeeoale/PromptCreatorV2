@@ -1,0 +1,74 @@
+{
+    "EPOCHS": [
+        "Occult Renaissance"
+    ],
+    "OUTFITS": [
+        "ritual robe embroidered with arcane sigils",
+        "Victorian occultist attire with silver chains",
+        "tattered cloak covered in blood runes",
+        "plague doctor garb with mystic scrolls",
+        "silken vestments with alchemical patterns"
+    ],
+    "LIGHTING": [
+        "candlelight from black wax pillars",
+        "greenish phosphorescent glow from below",
+        "moonlight filtered through stained glass",
+        "blue flame aura pulsing with sigils",
+        "dim light cast by floating runic symbols"
+    ],
+    "BACKGROUNDS": [
+        "ancient ritual chamber deep underground",
+        "abandoned cathedral altar with pentagrams",
+        "library of forbidden tomes and floating glyphs",
+        "forest grove surrounded by whispering shadows",
+        "mirror-filled sanctum echoing with chants"
+    ],
+    "OBJECTS": [
+        "an orb swirling with black mist",
+        "a dagger made of obsidian and bone",
+        "a tome bound in cursed leather",
+        "a staff topped with an eye that blinks",
+        "a chalice overflowing with red smoke"
+    ],
+    "POSES": [
+        "performing a summoning ritual with arms raised",
+        "kneeling before a glowing circle of power",
+        "standing with an open book and whispering lips",
+        "levitating above a blood-drawn sigil",
+        "casting a curse while shrouded in darkness"
+    ],
+    "EXPRESSIONS": [
+        "eyes glowing with forbidden knowledge",
+        "face marked with occult tattoos and serenity",
+        "gaze locked in trance with ancient power",
+        "smiling slightly while chanting in tongues",
+        "blank expression under a ceremonial mask"
+    ],
+    "CAMERA_ANGLES": [
+        "low angle with ritual circle visible around",
+        "overhead shot of subject inside a pentagram",
+        "close-up on arcane symbols being drawn",
+        "wide shot showing floating relics",
+        "side angle with candles and shadows dancing"
+    ],
+    "ATMOSPHERES": [
+        "thick incense swirling unnaturally",
+        "echoes of ancient voices in the air",
+        "gravity slightly distorted around the subject",
+        "ambient hum of magical pressure",
+        "air filled with whispers and candle smoke"
+    ],
+    "ACCESSORIES": [
+        "amulet made of bones and gems",
+        "necklace with a blood-stained key",
+        "crown of thorns and runes",
+        "rings etched with planetary seals",
+        "gloves stitched with protective incantations"
+    ],
+    "HORROR_INTENSITY": {
+        "Subtle": "gentle signs of the supernatural hidden in beauty",
+        "Creepy": "unseen watchers, ink that moves, candles that flicker on their own",
+        "Disturbing": "levitating objects, eyes appearing in mirrors, sigils bleeding softly",
+        "Unhinged": "tearing of reality, glowing mouths whispering forbidden truths"
+    }
+}

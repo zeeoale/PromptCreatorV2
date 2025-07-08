@@ -1,0 +1,76 @@
+{
+    "EPOCHS": [
+        "Gothic Victorian Era",
+        "Timeless Halloween Night",
+        "Eternal Twilight Realm"
+    ],
+    "OUTFITS": [
+        "striped vintage suits",
+        "long tattered dresses",
+        "corsets with spiderweb lace",
+        "oversized coats with uneven buttons",
+        "whimsical funeral attire"
+    ],
+    "LIGHTING": [
+        "moody backlighting",
+        "sharp chiaroscuro contrast",
+        "soft candle glow",
+        "blue-tinged moonlight",
+        "flickering lantern light"
+    ],
+    "BACKGROUNDS": [
+        "twisted forest with crooked trees",
+        "foggy graveyard with leaning tombstones",
+        "Victorian mansion with broken windows",
+        "melancholy carnival ruins",
+        "endless staircase in the void"
+    ],
+    "OBJECTS": [
+        "dancing skeletons",
+        "creepy jack-o'-lanterns",
+        "music boxes with porcelain dolls",
+        "oversized gothic clocks",
+        "floating furniture"
+    ],
+    "POSES": [
+        "gazing wistfully into the distance",
+        "reaching toward something unseen",
+        "sitting awkwardly on twisted furniture",
+        "standing on one foot in odd balance",
+        "floating gently above the ground"
+    ],
+    "EXPRESSIONS": [
+        "melancholic curiosity",
+        "wide-eyed wonder",
+        "gloomy yet charming",
+        "mischievous smirk",
+        "silent sorrow"
+    ],
+    "CAMERA_ANGLES": [
+        "Dutch tilt",
+        "close-up with strong shadows",
+        "low angle from the floor",
+        "top-down theatrical perspective",
+        "extreme close-up on the eyes"
+    ],
+    "ATMOSPHERES": [
+        "dreamlike gloom",
+        "whimsical horror",
+        "sorrowful magic",
+        "strange elegance",
+        "charming darkness"
+    ],
+    "ACCESSORIES": [
+        "tiny top hats",
+        "clockwork brooches",
+        "cobweb gloves",
+        "hand-stitched scarves",
+        "eyepieces with moving parts"
+    ],
+    "HORROR_INTENSITY": {
+        "Suggestive": "with eerie silence and curious shadows dancing in corners",
+        "Unsettling": "eyes seem to follow the viewer, objects slightly distorted",
+        "Terrifying": "limbs bend the wrong way, subtle movement in still things",
+        "Nightmarish": "faces melt into stitched-up masks, gravity flickers unpredictably"
+    }
+}

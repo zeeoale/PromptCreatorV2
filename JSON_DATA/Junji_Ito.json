@@ -1,0 +1,122 @@
+{
+  "EPOCHS": [
+    "Modern Japan",
+    "Dreamlike Tokyo",
+    "Abandoned village",
+    "Timeless nightmare"
+  ],
+  "OUTFITS": [
+    "school uniform soaked in rain",
+    "shredded kimono",
+    "hospital gown with stains",
+    "tattered cloak",
+    "ordinary clothes with subtle irregularities"
+  ],
+  "LIGHTING": [
+    "dim light flickering",
+    "moonlit shadows",
+    "sickly greenish glow",
+    "harsh fluorescent lights",
+    "darkness pierced by unknown sources",
+    "red pulsating glow",
+    "flickering surgical lamps",
+    "reflected light from blood pool",
+    "unnatural internal illumination",
+    "glow from stitched wounds"
+  ],
+  "BACKGROUNDS": [
+    "spiraling alleyways",
+    "abandoned clinics",
+    "twisted forests",
+    "corridors that loop",
+    "mirror-filled rooms",
+    "Tokyo street",
+    "abandoned morgue dripping with fluids",
+    "walls made of screaming faces",
+    "hospital room overgrown with veins",
+    "ritual chamber stained in decades-old blood",
+    "subway car filled with dolls and entrails"
+  ],
+  "OBJECTS": [
+    "deformed mirror",
+    "floating eye",
+    "grinning doll",
+    "long black hair",
+    "abstract clock",
+    "pulsing flesh wall",
+    "bloody arms coming out of the walls and the floor",
+    "writhing mass of veins",
+    "limbless crawling torsos",
+    "faceless mannequin heads",
+    "bloated corpse in fetal position",
+    "elongated jawbone creature",
+    "twitching parasitic sack",
+    "mirror with internal organs behind it",
+    "pile of discarded eyes"
+  ],
+  "POSES": [
+    "frozen mid-scream",
+    "twisting unnaturally",
+    "walking backwards",
+    "standing still with crooked neck",
+    "reaching toward viewer",
+    "crawling upside down on ceiling",
+    "arms bent backward unnaturally",
+    "head twisted 180 degrees smiling",
+    "levitating without control",
+    "clutching their own detached face"
+  ],
+  "EXPRESSIONS": [
+    "empty stare",
+    "mouth unnaturally wide",
+    "half-smile with bleeding gums",
+    "blank expression with leaking eyes",
+    "contorted agony",
+    "eyeless grin",
+    "crying blood with joy",
+    "ecstatic agony",
+    "flesh peeling from smile",
+    "lips stitched shut but twitching",
+    "drooling black tar"
+  ],
+  "CAMERA_ANGLES": [
+    "Dutch angle",
+    "low shot under chin",
+    "close-up on distorted face",
+    "rear view with long shadow",
+    "from ceiling corner"
+  ],
+  "ATMOSPHERES": [
+    "crown of stitched fingers",
+    "eyeball rosary",
+    "pendant filled with writhing worms",
+    "pocket mirror showing reflection screaming",
+    "bracelet made of human teeth",
+    "stench of dried blood",
+    "overwhelming dread",
+    "room alive and breathing",
+    "infinite hallway of decay",
+    "resonance of unseen screams"
+  ],
+  "ACCESSORIES": [
+    "spiraled earrings",
+    "bandages soaked in ink",
+    "mirror shard necklace",
+    "amulet with eyes",
+    "hands that don't belong",
+    "crown of stitched fingers",
+    "eyeball rosary",
+    "pendant filled with writhing worms",
+    "pocket mirror showing reflection screaming",
+    "bracelet made of human teeth"
+  ],
+  "HORROR_INTENSITY": {
+    "Suggestive": "slightly off-putting details, like duplicated shadows or blurred limbs",
+    "Unsettling": "faces merging into walls, impossible geometries",
+    "Terrifying": "bodies splitting open revealing eyes, whispers inside teeth",
+    "Nightmarish": "reality collapsing, flesh spiraling endlessly, everything watching",
+    "Grotesque": "exposed nerves and flesh interacting with machinery, skin splitting from within",
+    "Corrupted": "sacred objects turned into organic abominations, blood rivers flowing uphill",
+    "Profane": "spiritual possession manifesting as bodily disfigurement, divine figures melting"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "EPOCHS": [
+    "contemporary",
+    "futuristic",
+    "cyberpunk",
+    "vintage 50s",
+    "ancient Rome",
+    "samurai era",
+    "renaissance"
+  ],
+  "OUTFITS": [
+    "casual modern outfit",
+    "ornate traditional kimono",
+    "steampunk leather jacket",
+    "elegant Victorian dress",
+    "sci-fi armored suit",
+    "gothic lace top"
+  ],
+  "LIGHTING": [
+    "soft diffused studio lighting",
+    "warm golden hour",
+    "harsh spotlight",
+    "cool neon side light",
+    "dramatic chiaroscuro",
+    "black and white classic"
+  ],
+  "BACKGROUNDS": [
+    "blurred city lights",
+    "minimalist gray backdrop",
+    "colorful gradient",
+    "library full of books",
+    "dreamy pastel clouds",
+    "rustic wooden wall"
+  ],
+  "OBJECTS": [
+    "a single white rose",
+    "a pair of vintage goggles",
+    "a katana on her back",
+    "a steaming tea cup",
+    "a silver pendant",
+    "a paintbrush in her hand"
+  ],
+  "POSES": [
+    "looking straight into camera",
+    "profile view with head tilt",
+    "over-the-shoulder glance",
+    "chin resting on hand",
+    "gazing downward softly"
+  ],
+  "EXPRESSIONS": [
+    "subtle smile",
+    "melancholic gaze",
+    "confident smirk",
+    "curious wide-eyed look",
+    "gentle serenity"
+  ],
+  "CAMERA_ANGLES": [
+    "extreme close-up"
+  ],
+  "ATMOSPHERES": [
+    "mysterious and enchanting",
+    "calm and introspective",
+    "romantic and nostalgic",
+    "cold and distant",
+    "dreamy and surreal"
+  ],
+  "ACCESSORIES": [
+    "round glasses",
+    "crystal earrings",
+    "flower crown",
+    "metallic face tattoo",
+    "delicate lace choker"
+  ],
+  "HORROR_INTENSITY": {
+    "Low": "with faint eerie undertones in her expression",
+    "Medium": "her eyes show a hint of unnatural knowledge, skin slightly pale",
+    "High": "subtle blood smudge on cheek, eyes glowing faintly",
+    "Extreme": "distorted facial features, black liquid tears, unsettling aura"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "EPOCHS": [
+    "Distant Future",
+    "Post-Apocalyptic Space",
+    "Industrial Sci-Fi Era"
+  ],
+  "OUTFITS": [
+    "Heavy spacesuit",
+    "Corporate uniform stained with blood",
+    "Torn survival gear",
+    "Bio-mechanical armor",
+    "Containment suit with cracks"
+  ],
+  "LIGHTING": [
+    "dim flickering fluorescent lights",
+    "emergency red sirens",
+    "cold metallic ambient glow",
+    "strobe flashes in smoke",
+    "sporadic sparks from broken panels"
+  ],
+  "BACKGROUNDS": [
+    "derelict spaceship corridor",
+    "xenomorph hive with resin-coated walls",
+    "alien temple with Giger-esque sculptures",
+    "narrow ventilation shaft",
+    "decaying cryochamber",
+    "laboratory with burst containment tanks"
+  ],
+  "OBJECTS": [
+    "egg clusters pulsating faintly",
+    "facehugger jars",
+    "acid-burned floor panels",
+    "bio-mechanical cables",
+    "android remains",
+    "data logs scattered on floor",
+    "cracked helmet with reflection of alien"
+  ],
+  "POSES": [
+    "crouched and alert",
+    "frozen in terror",
+    "clutching a flare",
+    "back against a wall",
+    "suspended in zero gravity",
+    "trapped in a narrow shaft"
+  ],
+  "EXPRESSIONS": [
+    "paralyzed fear",
+    "grim determination",
+    "cold synthetic stare",
+    "silent panic",
+    "hollow-eyed survivor look"
+  ],
+  "CAMERA_ANGLES": [
+    "low angle with shadow approaching",
+    "over-the-shoulder in narrow corridor",
+    "close-up with condensation on helmet",
+    "wide shot of alien hive",
+    "first-person view of helmet HUD"
+  ],
+  "ATMOSPHERES": [
+    "claustrophobic and humid",
+    "toxic air thick with spores",
+    "echoes of distant screeches",
+    "low-frequency vibrations",
+    "heartbeat-like mechanical pulses",
+    "constant metallic groans",
+    "with a xenomorph in the darkness"
+  ],
+  "ACCESSORIES": [
+    "motion tracker blinking erratically",
+    "broken oxygen mask",
+    "flamethrower unit",
+    "alien claw necklace",
+    "blood-stained ID card",
+    "flickering wrist terminal"
+  ],
+  "HORROR_INTENSITY": {
+    "Suggestive": "with unexplained slime trails and flickering systems",
+    "Unsettling": "surrounded by inhuman growls and motion in the shadows",
+    "Terrifying": "with xenomorphs emerging from walls, close proximity breathing",
+    "Nightmarish": "entire ship infested, no safe zone, walls move with alien intent"
+  }
+}

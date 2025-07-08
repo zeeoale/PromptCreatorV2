@@ -1,0 +1,67 @@
+{
+  "EPOCHS": [
+    "Post-human dystopian future",
+    "Decayed Martian civilization",
+    "Abandoned Earth orbit",
+    "Post-silicon metropolis of the 28th century"
+  ],
+  "OUTFITS": [
+    "damaged synthetic suit",
+    "cloak woven with optical fibers",
+    "alien command uniform",
+    "black dress with neon inserts"
+  ],
+  "LIGHTING": [
+    "cold blue neon light",
+    "reflections from broken monitors",
+    "flashes of unstable electric current",
+    "moon backlight over metallic wreckage"
+  ],
+  "BACKGROUNDS": [
+    "ruins of an orbital station",
+    "deserted streets filled with screens",
+    "artificial desert of corrupted data",
+    "hall of shattered digital mirrors"
+  ],
+  "OBJECTS": [
+    "broken drone at her feet",
+    "faded hologram in her hand",
+    "gas mask with alien symbols",
+    "unknown technological relic"
+  ],
+  "POSES": [
+    "standing on a ruined tower",
+    "crouched among the remains",
+    "staring blankly into the void",
+    "embracing a broken drone"
+  ],
+  "EXPRESSIONS": [
+    "melancholic and empty face",
+    "tired and distant gaze",
+    "eyes glowing in the dark",
+    "apathetic expression"
+  ],
+  "CAMERA_ANGLES": [
+    "low-angle shot",
+    "close-up with blurred background",
+    "side view in dim light",
+    "backlit with glowing aura"
+  ],
+  "ATMOSPHERES": [
+    "acid rain lingering in the air",
+    "invisible presence watching",
+    "oppressive electromagnetic vibrations",
+    "metallic echoes of distant footsteps"
+  ],
+  "ACCESSORIES": [
+    "damaged communication earpiece",
+    "futuristic military backpack",
+    "bracelet with forgotten coordinates",
+    "necklace holding a memory chip"
+  ],
+  "HORROR_INTENSITY": {
+    "Mild": "a sense of technological abandonment permeates everything.",
+    "Medium": "biomechanical elements fuse with human remains.",
+    "Strong": "the landscape is littered with mutilated synthetic bodies and digital voices whisper through the wind."
+  }
+}

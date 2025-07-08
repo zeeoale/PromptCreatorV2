@@ -1,0 +1,79 @@
+{
+    "EPOCHS": [
+        "Fairy tale kingdom",
+        "Enchanted forest",
+        "Royal palace",
+        "Magic underwater realm",
+        "Desert oasis at twilight"
+    ],
+    "OUTFITS": [
+        "flowing royal gown",
+        "sparkling ball dress",
+        "ceremonial cape with golden embroidery",
+        "simple village dress with apron",
+        "battle-ready royal armor with tiara"
+    ],
+    "LIGHTING": [
+        "sunlight filtered through trees",
+        "soft candlelight",
+        "twilight glow with magical sparks",
+        "moonlight reflecting on water",
+        "shimmering rainbow light"
+    ],
+    "BACKGROUNDS": [
+        "grand marble ballroom",
+        "mystical forest glade",
+        "tower balcony under the stars",
+        "dreamy meadow full of fireflies",
+        "underwater castle of coral and pearls"
+    ],
+    "OBJECTS": [
+        "glass slipper",
+        "enchanted mirror",
+        "talking animal companion",
+        "spellbound rose",
+        "ancient family crest"
+    ],
+    "POSES": [
+        "gently holding a glowing artifact",
+        "dancing with grace in mid-spin",
+        "standing proudly with arms open",
+        "gazing out of a castle window",
+        "kneeling beside an injured creature"
+    ],
+    "EXPRESSIONS": [
+        "kind and hopeful",
+        "gentle yet determined",
+        "radiant joy",
+        "longing gaze",
+        "innocent wonder"
+    ],
+    "CAMERA_ANGLES": [
+        "cinematic close-up from below",
+        "soft focus portrait front-facing",
+        "dynamic angle with wind in hair",
+        "three-quarters with castle behind",
+        "profile silhouette against sunset"
+    ],
+    "ATMOSPHERES": [
+        "filled with magic and singing birds",
+        "serene and full of wonder",
+        "surrounded by a glowing aura of destiny",
+        "gentle snowfall with fairy lights",
+        "warm air and distant chimes"
+    ],
+    "ACCESSORIES": [
+        "jeweled tiara",
+        "magic pendant",
+        "royal scepter",
+        "enchanted hairpin",
+        "symbolic family ring"
+    ],
+    "HORROR_INTENSITY": {
+        "Suggestive": "with a faint whisper of forgotten curses and enchanted shadows",
+        "Unsettling": "as if the fairy tale hides a darker truth just beneath the surface",
+        "Terrifying": "with smiling faces turned to porcelain masks, frozen mid-laugh",
+        "Nightmarish": "trapped in a distorted dream where magic becomes decay and melody becomes scream"
+    }
+}
+

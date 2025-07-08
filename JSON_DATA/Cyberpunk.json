@@ -1,0 +1,68 @@
+{
+  "EPOCHS": [
+    "Cyberpunk"
+  ],
+  "OUTFITS": [
+    "chrome bodysuit with glowing lines",
+    "jacket with neon trim and LED patches",
+    "tactical armor with cybernetic ports",
+    "latex trench coat with digital patterns",
+    "mesh top over carbon-fiber corset",
+    "transparent vinyl bodysuit with circuitry"
+  ],
+  "LIGHTING": [
+    "lit by glitching neon signs",
+    "bathed in pink and cyan holographic haze",
+    "under strobing lights from a passing drone",
+    "lit by pulsating data streams"
+  ],
+  "BACKGROUNDS": [
+    "neon-lit alley with graffiti and steam vents",
+    "high-tech temple covered in circuit glyphs",
+    "cybernetic market full of androids",
+    "skyscraper rooftops lost in electric fog",
+    "abandoned server farm glowing in red",
+    "subway tunnel with moving LED ads"
+  ],
+  "OBJECTS": [
+    "a cracked VR headset with blood on the lens",
+    "a glowing data crystal hovering mid-air",
+    "an old katana retrofitted with wires",
+    "a vending machine dispensing strange pills",
+    "a cyberdeck connected to the floor with cables"
+  ],
+  "POSES": [
+    "standing on a rooftop with one leg raised",
+    "hacking into a console while crouched",
+    "walking through mist with slow determination",
+    "aiming a plasma pistol sideways",
+    "leaning against a neon wall with crossed arms"
+  ],
+  "EXPRESSIONS": [
+    "with a cold, calculating stare",
+    "with a smirk of rebellion",
+    "with emotionless synthetic eyes",
+    "with a glitching smile",
+    "with eyes scanning data in real-time"
+  ],
+  "CAMERA_ANGLES": [
+    "low-angle shot with neon background",
+    "over-the-shoulder with HUD elements",
+    "wide shot from behind with cityscape",
+    "dynamic close-up with reflections in visor",
+    "tilted angle for a chaotic perspective"
+  ],
+  "ATMOSPHERES": [
+    "rain soaked in static electricity",
+    "floating holographic ads flickering",
+    "electric sparks bouncing on wet ground",
+    "distorted digital echoes in the air"
+  ],
+  "ACCESSORIES": [
+    "with neural plugs on the temples",
+    "wearing a visor that reflects neon codes",
+    "with chrome cybernetic arms",
+    "a glowing earpiece linked to a HUD display",
+    "wearing fingerless gloves with haptic sensors"
+  ]
+}

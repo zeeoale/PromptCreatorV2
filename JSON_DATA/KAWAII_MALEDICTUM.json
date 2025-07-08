@@ -1,0 +1,74 @@
+{
+  "EPOCHS": [
+    "Kawaii Nightmare"
+  ],
+  "OUTFITS": [
+    "sexy tight dress",
+    "sexy tight and low-cut dress",
+    "hooded onesie with torn ears",
+    "sexy black lingerie",
+    "bear costume but with the face visible",
+    "Sailor Moon style sailor dress"
+  ],
+  "LIGHTING": [
+    "lit by blinking fairy lights",
+    "under flickering pink neon signs",
+    "bathed in soft pastel gloom",
+    "under a pulsating heart-shaped spotlight"
+  ],
+  "BACKGROUNDS": [
+    "abandoned candy store with broken glass",
+    "haunted pastel bedroom full of plushies",
+    "blood-splattered amusement park ride",
+    "deserted kawaii cafe with overturned chairs",
+    "foggy dreamscape with melting cupcakes",
+    "pink bathroom with blood stains everywhere"
+  ],
+  "OBJECTS": [
+    "a cracked lollipop with a smiling face",
+    "a stuffed bunny with stitched X eyes",
+    "a cupcake oozing black ichor",
+    "a toy carousel with missing horses"
+  ],
+  "POSES": [
+    "hugging a plushie with dead eyes",
+    "skipping with a knife behind the back",
+    "floating while surrounded by balloons",
+    "sitting cross-legged in a circle of dolls",
+    "dancing with one shoe missing"
+  ],
+  "EXPRESSIONS": [
+    "with an innocent smile that hides something dark",
+    "with wide eyes and trembling lips",
+    "with an unblinking, soulless gaze",
+    "giggling through tears",
+    "with blood on her cheeks and a giggle"
+  ],
+  "CAMERA_ANGLES": [
+    "extreme close-up with sparkle overlays",
+    "low-angle shot from a broken toy's POV",
+    "cinematic wide shot with pastel fog",
+    "overhead view from a mobile hanging above",
+    "first-person view looking at a twisted doll"
+  ],
+  "ATMOSPHERES": [
+    "floating glitter that turns to ash",
+    "syrupy mist hanging in the air",
+    "stuffing particles drifting like snow",
+    "static crackles with sweet perfume",
+    "echoes of laughter in the distance"
+  ],
+  "ACCESSORIES": [
+    "a headband with cracked cat ears",
+    "a backpack shaped like a bleeding donut",
+    "bracelets made of safety pins and candy",
+    "a pacifier with glowing runes",
+    "a collar with dangling charms of teeth"
+  ],
+  "HORROR_INTENSITY": {
+    "Subtle": "a sense of wrongness beneath the cuteness, as if something is watching",
+    "Creepy": "smiles linger too long, plushies seem to breathe, laughter echoes too loudly",
+    "Disturbing": "eyes appear in the wallpaper, sweet scents mask decay, toys twitch at night",
+    "Unhinged": "everything smiles with sharp teeth, colors scream, and the air tastes of blood-stained sugar"
+  }
+}

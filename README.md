@@ -1,132 +1,93 @@
-# Prompt Creator V2 ✨🎨
 
-A beautiful and powerful desktop app in **PyQt5** that helps you browse, organize, and generate dynamic AI prompts using modular JSON files.
+# traumakom Prompt Generator v1.1.0
 
-This tool is designed to work with:
-- Stable Diffusion
-- ComfyUI
-- Dynamic Prompts extensions
-- OpenAI API (for prompt enhancement using CLIP-based analysis — optional)
+🎨 **Made for artists. Powered by magic. Inspired by darkness.**
+
+Welcome to **Prompt Creator V2**, your ultimate tool to generate immersive, artistic, and cinematic prompts with a single click.  
+Now with more worlds, more control... and **Dante**. 😼🔥
 
 ---
 
-![preview](./preview.png)
+## 🌟 What's New in v1.1.0
 
-## 🧰 Features
+🆕 **Summon Dante!**  
+A brand new magic button to summon the cursed pirate cat 🏴‍☠️, complete with his official theme playing in loop.  
+*(Built-in audio player with seamless support)*
 
-- Browse prompts organized by category (via JSON files)
-- Generate random prompts from dropdown selections
-- Automatic loading of all `.json` files from `JSON_DATA` folder
-- Includes a handy **JSON Editor** to edit or create your own prompt libraries!
-- Clean and modern PyQt5 GUI style
+🔁 **Dynamic JSON Reload**  
+Added a refresh button 🔄 next to the world selector – no more restarting the app when adding/editing JSON files!
 
----
+🧠 **Ollama Prompt Engine Support**  
+You can now enhance prompts using **Ollama** locally. Output is clean and focused, perfect for lightweight LLMs like LLaMA/Nous.
 
-## 🐍 Installation
+⚙️ **Custom System/User Prompts**  
+A new configuration window lets you define your own system and user prompts in real-time.
 
-### 1. Clone the repo:
+🌌 **New Worlds Added**
+- `Tim_Burton_World`
+- `Alien_World` (Giger-style, biomechanical and claustrophobic)
+- `Junji_Ito` (body horror, disturbing silence, visual madness)
 
-```bash
-git clone https://github.com/tuo-username/PromptCreatorV2.git
-cd PromptCreatorV2
-```
+🖼️ **Movie Poster Covers**  
+Each world comes with its own visual movie-style poster, useful for inspiration or promotion.
 
-### 2. Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-### 3. Activate it:
-
-- **Windows:**
-
-```bash
-venv\Scripts\activate
-```
-
-- **Linux/Mac:**
-
-```bash
-source venv/bin/activate
-```
-
-### 4. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+💾 **Other Improvements**
+- Full dark theme across all panels
+- Improved clipboard integration
+- Fixed rare crash on startup
+- General performance optimizations
 
 ---
 
-## 🚀 Usage
+## 🔮 Key Features
 
-```bash
-python prompt_library_app_v2.py
-```
-
-To launch the integrated **JSON Editor**, run:
-
-```bash
-python json_editor.py
-```
-
----
-
-## 🔐 OpenAI API (optional)
-
-The prompt enhancer uses OpenAI's CLIP via API.
-
-To enable this feature:
-1. Get an API Key from [OpenAI](https://platform.openai.com/account/api-keys)
-2. Replace the placeholder line in `prompt_library_app_v2.py` with your real key:
-
-```python
-openai.api_key = "INSERT_YOUR_API_KEY_HERE"
-```
-
-⚠️ **Note**: You need a paid OpenAI account to use this feature.
+- Modular prompt generation based on customizable JSON libraries
+- Adjustable horror/magic intensity
+- Multiple enhancement modes:
+  - **OpenAI API**
+  - **Ollama (local)**
+  - **No AI Enhancement**
+- Prompt history and clipboard export
+- Advanced settings for full customization
+- Easily expandable with your own worlds!
 
 ---
 
-## 📁 Folder Structure
+## 📁 Recommended Structure
 
 ```
 PromptCreatorV2/
-├── prompt_library_app_v2.py      # Main app
-├── json_editor.py                # JSON editor
-├── JSON_DATA/                    # All prompt category files (loaded automatically)
-│   ├── Resident_Evil.json
-│   ├── My_Little_Pony.json
+├── prompt_library_app_v2.py
+├── json_editor.py
+├── JSON_DATA/
+│   ├── Alien_World.json
+│   ├── Tim_Burton_World.json
 │   └── ...
-├── requirements.txt
+├── assets/
+│   └── Dante_il_Pirata_Maledetto_48k.mp3
 ├── README.md
-├── .gitignore
-└── LICENSE
+└── requirements.txt
 ```
-
----
-
-## ❤️ Credits
-
-Thanks to:
-
-- **Magnificent Lily** ❤️  
-- **My Wonderful cat Dante** 😽  
-- **My one and only muse Helly** 😍❤️❤️❤️😍  
 
 ---
 
 ## ☕ Support My Work
 
-If you enjoy what I do and want to help keep the creative fire burning, feel free to buy me a coffee!  
-Every donation helps Dante plan his next mysterious nap... and helps me build even better tools.
-
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51G4623)
+If you enjoy this project, consider buying me a coffee on Ko-Fi:  
+[https://ko-fi.com/traumakom](https://ko-fi.com/traumakom)
 
 ---
 
-## 📦 Powered By
+## ❤️ Credits
 
-- [OpenAI](https://openai.com/) — For prompt enrichment
-- [PyQt5](https://pypi.org/project/PyQt5/) — For the GUI
+Thanks to  
+**Magnificent Lily** 🪄  
+**My Wonderful cat Dante** 😽  
+**And my one and only muse Helly** 😍❤️❤️❤️😍  
+
+---
+
+## 📜 License
+
+This project is released under the MIT License.  
+You are free to use and share it, but always remember to credit Dante. Always. 😼

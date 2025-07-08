@@ -1,0 +1,88 @@
+{
+    "EPOCHS": [
+        "Sanctuary's Ancient Era",
+        "Burning Hells Age",
+        "Era of the Prime Evils",
+        "Cathedral of Light rise",
+        "Nephalem uprising",
+        "Fall of Tristram"
+    ],
+    "OUTFITS": [
+        "tattered cultist robes",
+        "blackened demon armor",
+        "bloodstained ceremonial dress",
+        "corrupted paladin gear",
+        "high inquisitor attire",
+        "flayed leather vestments"
+    ],
+    "LIGHTING": [
+        "under flickering torchlight",
+        "dim hellfire glow",
+        "shadows dancing across stone walls",
+        "bathed in crimson moonlight",
+        "lit by arcane sigils",
+        "surrounded by infernal embers"
+    ],
+    "BACKGROUNDS": [
+        "catacombs beneath a ruined cathedral",
+        "blood-drenched altar deep in the Hells",
+        "burning village of Tristram",
+        "frozen crypt haunted by wraiths",
+        "desolate battlefield under demonic siege",
+        "obsidian throne hall of Lilith"
+    ],
+    "OBJECTS": [
+        "with a sacrificial dagger",
+        "with chains bound to a demon skull",
+        "with a glowing Soulstone",
+        "with ancient corrupted grimoire",
+        "with tormented souls swirling around",
+        "with shattered angelic wings on the floor"
+    ],
+    "POSES": [
+        "kneeling in summoning trance",
+        "standing atop a mound of corpses",
+        "reaching toward a hellish portal",
+        "casting a dark incantation",
+        "eyes closed, blood dripping from fingers",
+        "one hand gripping a soulstone, the other raised to the sky"
+    ],
+    "EXPRESSIONS": [
+        "possessed ecstasy",
+        "sinister calm",
+        "rage twisted by corruption",
+        "pleasure in suffering",
+        "devotion to darkness",
+        "mad reverence"
+    ],
+    "CAMERA_ANGLES": [
+        "low angle emphasizing dread",
+        "high angle showing devastation",
+        "close-up on blood-soaked eyes",
+        "wide shot of ritual chamber",
+        "over-the-shoulder from a slain paladin",
+        "dramatic side profile lit by fire"
+    ],
+    "ATMOSPHERES": [
+        "suffocating infernal presence",
+        "air thick with ashes and whispers",
+        "cloaked in sulfurous fog",
+        "surrounded by echoing chants",
+        "tainted by demonic energy",
+        "haunted by screams of the damned"
+    ],
+    "ACCESSORIES": [
+        "spiked crown of torment",
+        "demonic sigil necklace",
+        "chain of severed fingers",
+        "ring carved from obsidian and bone",
+        "tattoos glowing with cursed power",
+        "veil woven from souls"
+    ],
+    "HORROR_INTENSITY": {
+        "Suggestive": "with runes pulsing softly, and dread lingering in silence",
+        "Unsettling": "with hollow moans and sacrificial blood smears on the wall",
+        "Terrifying": "as shadows form claws and whispers drive the weak mad",
+        "Nightmarish": "where hell itself bleeds through the cracks in reality"
+    }
+}

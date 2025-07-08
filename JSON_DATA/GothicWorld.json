@@ -1,0 +1,78 @@
+{
+    "EPOCHS": [
+        "neo-gothic modern era",
+        "cyber-goth age",
+        "victorian revival",
+        "contemporary darkwave scene",
+        "urban gothic underground"
+    ],
+    "OUTFITS": [
+        "lace corset with long velvet skirt",
+        "black leather jacket and torn jeans",
+        "flowing dark robes with occult symbols",
+        "cyber-goth armor with neon accents",
+        "lace-up boots, mesh gloves and choker"
+    ],
+    "LIGHTING": [
+        "under a pale moonlight",
+        "dim candlelight flickering",
+        "neon purple backlight",
+        "shadows pierced by occasional lightning",
+        "harsh contrast of moon and fog"
+    ],
+    "BACKGROUNDS": [
+        "abandoned cathedral",
+        "foggy graveyard",
+        "decaying urban alley",
+        "gothic club interior",
+        "forest consumed by shadows"
+    ],
+    "OBJECTS": [
+        "a blood-stained rose",
+        "an ancient spellbook",
+        "a black raven on shoulder",
+        "glowing runes",
+        "a mirror that doesn't reflect reality"
+    ],
+    "POSES": [
+        "standing tall and still",
+        "slowly walking forward",
+        "kneeling in silence",
+        "arms raised toward the sky",
+        "turning back with intense gaze"
+    ],
+    "EXPRESSIONS": [
+        "stoic and unreadable",
+        "melancholic",
+        "fierce and defiant",
+        "detached and haunting",
+        "mysterious smile"
+    ],
+    "CAMERA_ANGLES": [
+        "low angle",
+        "close-up on face",
+        "high angle from above",
+        "side profile",
+        "over-the-shoulder shot"
+    ],
+    "ATMOSPHERES": [
+        "misty and silent",
+        "charged with dark energy",
+        "mournful and ethereal",
+        "surreal and distorted",
+        "hauntingly calm"
+    ],
+    "ACCESSORIES": [
+        "silver crucifix",
+        "lace veil",
+        "obsidian ring",
+        "ritual dagger",
+        "Victorian umbrella"
+    ],
+    "HORROR_INTENSITY": {
+        "Suggestive": "surrounded by whispers from the unseen",
+        "Unsettling": "accompanied by distant sobbing and echoing footsteps",
+        "Terrifying": "with bleeding walls and doors that breathe",
+        "Nightmarish": "trapped in a realm of shifting shadows and eternal screams"
+    }
+}

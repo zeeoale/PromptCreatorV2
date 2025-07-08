@@ -1,0 +1,61 @@
+{
+  "ANIMALS": [
+    "a black cat with glowing eyes",
+    "a playful shiba-inu with a red scarf",
+    "a majestic white horse with braided mane",
+    "a bearded dragon resting on a stone",
+    "a ghostly wolf under the moon",
+    "a golden retriever with wings",
+    "a curious fox with nine tails",
+    "a panther with cybernetic implants",
+    "a tiger cub wearing a wizard hat",
+    "a T-Rex in the forest"
+  ],
+  "OUTFITS": [
+    "no outfit",
+    "a little wizard cloak"
+  ],
+  "LIGHTING": [
+    "sunset glow",
+    "moonlight"
+  ],
+  "BACKGROUNDS": [
+    "enchanted forest",
+    "urban alley",
+    "ancient ruins",
+    "kicthen",
+    "bathroom"
+  ],
+  "OBJECTS": [
+    "a glowing orb",
+    "a floating book"
+  ],
+  "POSES": [
+    "sitting",
+    "walking",
+    "resting"
+  ],
+  "EXPRESSIONS": [
+    "calm",
+    "alert",
+    "playful"
+  ],
+  "CAMERA_ANGLES": [
+    "low angle",
+    "front view"
+  ],
+  "ATMOSPHERES": [
+    "serene",
+    "mystical"
+  ],
+  "ACCESSORIES": [
+    "tiny glasses",
+    "a magical collar"
+  ],
+  "HORROR_INTENSITY": {
+    "Suggestive": "with a mysterious aura and a latent sense of unease",
+    "Unsettling": "with empty eyes that stare into the soul, oppressive silence",
+    "Terrifying": "surrounded by inhuman screams, invisible presences crawling",
+    "Nightmarish": "as if reality itself is melting around her"
+  }
+}
