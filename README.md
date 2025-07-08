@@ -11,10 +11,12 @@ Now with more worlds, more control... and **Dante**. 😼🔥
 ## 🌟 What's New in v1.1.0
 
 Main Window:
+
 ![image](https://github.com/user-attachments/assets/099e086c-5320-4c35-85f8-a76bedbacfad)
 
 
 Prompt History:
+
 ![msedge_TYTDcn3Hlx](https://github.com/user-attachments/assets/4e37e92c-8a68-464e-8d9d-d821c9448830)
 
 Prompt Setting:
