@@ -10,6 +10,17 @@ Now with more worlds, more control... and **Dante**. 😼🔥
 
 ## 🌟 What's New in v1.1.0
 
+Main Window:
+![image](https://github.com/user-attachments/assets/099e086c-5320-4c35-85f8-a76bedbacfad)
+
+
+Prompt History:
+![msedge_TYTDcn3Hlx](https://github.com/user-attachments/assets/4e37e92c-8a68-464e-8d9d-d821c9448830)
+
+Prompt Setting:
+![python_p5cwTxrFyA](https://github.com/user-attachments/assets/3f639123-9ae2-48bf-9dc9-ca0a85b476df)
+
+
 🆕 **Summon Dante!**  
 A brand new magic button to summon the cursed pirate cat 🏴‍☠️, complete with his official theme playing in loop.  
 *(Built-in audio player with seamless support)*
@@ -27,9 +38,6 @@ A new configuration window lets you define your own system and user prompts in r
 - `Tim_Burton_World`
 - `Alien_World` (Giger-style, biomechanical and claustrophobic)
 - `Junji_Ito` (body horror, disturbing silence, visual madness)
-
-🖼️ **Movie Poster Covers**  
-Each world comes with its own visual movie-style poster, useful for inspiration or promotion.
 
 💾 **Other Improvements**
 - Full dark theme across all panels
