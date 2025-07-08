@@ -80,6 +80,44 @@ PromptCreatorV2/
 └── requirements.txt
 ```
 
+## 🔧 Installation
+
+### 📦 Prerequisites
+- Python **3.10 o 3.11**  
+- Virtual env raccomanded (es. `venv`)
+
+### 🧪 Create & activate virtual environment
+
+#### 🪟 Windows
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+#### 🐧 Linux / 🍎 macOS
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+---
+
+### 📥 Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### ▶️ Run the app
+
+```bash
+python prompt_library_app_v2.py
+```
+
 ---
 
 ## ☕ Support My Work
