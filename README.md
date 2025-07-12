@@ -61,6 +61,32 @@ A new configuration window lets you define your own system and user prompts in r
 - Improved clipboard integration
 - Fixed rare crash on startup
 - General performance optimizations
+---
+## 🗃️ Prompt JSON Creator Hub
+
+<img width="1024" height="1024" alt="Logo _PROMPT JSON HUB_ Vintage" src="https://github.com/user-attachments/assets/40ff16b8-eb53-4972-9657-74f85c4c2119" />
+
+
+
+🎉 Welcome to the brand-new **Prompt JSON Creator Hub**!  
+A curated space designed to explore, share, and download structured JSON presets — fully compatible with your Prompt Creator app.
+
+👉 **Visit now**: [https://json.traumakom.online/](https://json.traumakom.online/)
+
+### ✨ What you can do:
+- Browse all available public JSON presets
+- View detailed descriptions, tags, and contents
+- Instantly download and use presets in your local app
+- See how many JSONs are currently live on the Hub
+
+The Prompt JSON Hub is constantly updated with new thematic presets: portraits, horror, fantasy worlds, superheroes, kawaii styles, and more.
+
+> 🔄 After adding or editing files in your local `JSON_DATA` folder, use the 🔄 button in the Prompt Creator to reload them dynamically!
+
+---
+
+**📦 Latest app version:** includes full Hub integration + live JSON counter  
+**👥 Powered by:** the community, the users... and a touch of dark magic 🐾
 
 ---
 
