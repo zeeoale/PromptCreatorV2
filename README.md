@@ -23,6 +23,43 @@ Each JSON includes author, preview, tags and description – ready to be summone
 
 🔁 **Dynamic JSON Reload**  
 Still here and better than ever – just hit 🔄 to refresh your local JSON list after downloading new content.
+Main Window:
+
+![image](https://github.com/user-attachments/assets/099e086c-5320-4c35-85f8-a76bedbacfad)
+
+
+Prompt History:
+
+![msedge_TYTDcn3Hlx](https://github.com/user-attachments/assets/4e37e92c-8a68-464e-8d9d-d821c9448830)
+
+Prompt Setting:
+
+![python_p5cwTxrFyA](https://github.com/user-attachments/assets/3f639123-9ae2-48bf-9dc9-ca0a85b476df)
+
+
+🆕 **Summon Dante!**  
+A brand new magic button to summon the cursed pirate cat 🏴‍☠️, complete with his official theme playing in loop.  
+*(Built-in audio player with seamless support)*
+
+🔁 **Dynamic JSON Reload**  
+Added a refresh button 🔄 next to the world selector – no more restarting the app when adding/editing JSON files!
+
+🧠 **Ollama Prompt Engine Support**  
+You can now enhance prompts using **Ollama** locally. Output is clean and focused, perfect for lightweight LLMs like LLaMA/Nous.
+
+⚙️ **Custom System/User Prompts**  
+A new configuration window lets you define your own system and user prompts in real-time.
+
+🌌 **New Worlds Added**
+- `Tim_Burton_World`
+- `Alien_World` (Giger-style, biomechanical and claustrophobic)
+- `Junji_Ito` (body horror, disturbing silence, visual madness)
+
+💾 **Other Improvements**
+- Full dark theme across all panels
+- Improved clipboard integration
+- Fixed rare crash on startup
+- General performance optimizations
 
 ---
 
