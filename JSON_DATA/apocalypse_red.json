@@ -1,0 +1,78 @@
+{
+  "EPOCHS": [
+    "Post-Apocalyptic Future",
+    "End-Time Earth",
+    "Crimson Twilight",
+    "Ashfall Reign",
+    "Age of Fire and Silence"
+  ],
+  "OUTFITS": [
+    "tattered trench coat",
+    "burned survival gear",
+    "hooded cloak with torn edges",
+    "ceremonial rags of a fallen tribe",
+    "battle-scarred red dress with leather belts",
+    "tight, low-cut dress"
+  ],
+  "LIGHTING": [
+    "under red sky",
+    "flickering firelight",
+    "volcanic glow",
+    "ember-lit dusk",
+    "dying sun bleeding through clouds"
+  ],
+  "BACKGROUNDS": [
+    "ruins of a collapsed city",
+    "ash-covered wasteland",
+    "lava-cracked desert",
+    "shattered statues in black sand",
+    "rusted watchtower under a burning sky"
+  ],
+  "OBJECTS": [
+    "burned flag",
+    "cracked gas mask",
+    "smoking flare",
+    "warped weapon relic",
+    "symbolic pendant glowing faintly"
+  ],
+  "POSES": [
+    "kneeling in ash",
+    "walking through rubble",
+    "staring at the scorched horizon",
+    "guarding a sacred relic",
+    "sitting solemnly in defiance"
+  ],
+  "EXPRESSIONS": [
+    "resolute",
+    "haunted",
+    "silent determination",
+    "ritual trance",
+    "mournful strength"
+  ],
+  "CAMERA_ANGLES": [
+    "over-the-shoulder",
+    "low angle with ash storm",
+    "dramatic close-up",
+    "wide shot with burning horizon",
+    "profile silhouette against crimson sky"
+  ],
+  "ATMOSPHERES": [
+    "thick ashfall",
+    "burning silence",
+    "fiery dusk",
+    "ritualistic stillness",
+    "smoldering sorrow"
+  ],
+  "ACCESSORIES": [
+    "goggles on forehead",
+    "scorched map",
+    "radioactive pendant",
+    "bone-carved bracelet",
+    "charred journal of the fallen"
+  ],
+  "HORROR_INTENSITY": {
+    "mild": "smoky haze",
+    "strong": "cracked faces, molten terrain",
+    "ritual": "scarred symbols, ceremonial fires"
+  }
+}

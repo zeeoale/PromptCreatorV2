@@ -1,2 +1,3 @@
 PyQt5>=5.15
 openai==0.28.1
+google.generativeai==0.8.5

@@ -1,5 +1,4 @@
-
-# traumakom Prompt Generator v1.1.0
+# traumakom Prompt Generator v1.2.0
 
 🎨 **Made for artists. Powered by magic. Inspired by darkness.**
 
@@ -8,34 +7,22 @@ Now with more worlds, more control... and **Dante**. 😼🔥
 
 ---
 
-## 🌟 What's New in v1.1.0
+## 🌟 What's New in v1.2.0
 
-🆕 **Summon Dante!**  
-A brand new magic button to summon the cursed pirate cat 🏴‍☠️, complete with his official theme playing in loop.  
-*(Built-in audio player with seamless support)*
+🧠 **New AI Enhancers: Gemini & Cohere**  
+In addition to OpenAI and Ollama, you can now choose **Google Gemini** or **Cohere Command R+** as prompt enhancers.  
+More choice, more nuance, more style. ✨
+
+🚻 **Gender Selector**  
+Added a gender option to customize prompt generation for **female** or **male** characters. Toggle freely for tailored results!
+
+🗃️ **JSON Online Hub Integration**  
+Say hello to the **Prompt JSON Hub**!  
+You can now **browse and download community JSON files** directly from the app.  
+Each JSON includes author, preview, tags and description – ready to be summoned into your library.
 
 🔁 **Dynamic JSON Reload**  
-Added a refresh button 🔄 next to the world selector – no more restarting the app when adding/editing JSON files!
-
-🧠 **Ollama Prompt Engine Support**  
-You can now enhance prompts using **Ollama** locally. Output is clean and focused, perfect for lightweight LLMs like LLaMA/Nous.
-
-⚙️ **Custom System/User Prompts**  
-A new configuration window lets you define your own system and user prompts in real-time.
-
-🌌 **New Worlds Added**
-- `Tim_Burton_World`
-- `Alien_World` (Giger-style, biomechanical and claustrophobic)
-- `Junji_Ito` (body horror, disturbing silence, visual madness)
-
-🖼️ **Movie Poster Covers**  
-Each world comes with its own visual movie-style poster, useful for inspiration or promotion.
-
-💾 **Other Improvements**
-- Full dark theme across all panels
-- Improved clipboard integration
-- Fixed rare crash on startup
-- General performance optimizations
+Still here and better than ever – just hit 🔄 to refresh your local JSON list after downloading new content.
 
 ---
 
@@ -45,9 +32,13 @@ Each world comes with its own visual movie-style poster, useful for inspiration 
 - Adjustable horror/magic intensity
 - Multiple enhancement modes:
   - **OpenAI API**
+  - **Gemini**
+  - **Cohere**
   - **Ollama (local)**
   - **No AI Enhancement**
 - Prompt history and clipboard export
+- Gender selector: Male / Female
+- Direct download from online JSON Hub
 - Advanced settings for full customization
 - Easily expandable with your own worlds!
 
@@ -61,12 +52,50 @@ PromptCreatorV2/
 ├── json_editor.py
 ├── JSON_DATA/
 │   ├── Alien_World.json
-│   ├── Tim_Burton_World.json
+│   ├── Superhero_Female.json
 │   └── ...
 ├── assets/
 │   └── Dante_il_Pirata_Maledetto_48k.mp3
 ├── README.md
 └── requirements.txt
+```
+
+## 🔧 Installation
+
+### 📦 Prerequisites
+- Python **3.10 o 3.11**  
+- Virtual env raccomanded (es. `venv`)
+
+### 🧪 Create & activate virtual environment
+
+#### 🪟 Windows
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+#### 🐧 Linux / 🍎 macOS
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+---
+
+### 📥 Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### ▶️ Run the app
+
+```bash
+python prompt_library_app_v2.py
 ```
 
 ---
