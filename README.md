@@ -25,7 +25,8 @@ Each JSON includes author, preview, tags and description – ready to be summone
 Still here and better than ever – just hit 🔄 to refresh your local JSON list after downloading new content.
 Main Window:
 
-![image](https://github.com/user-attachments/assets/099e086c-5320-4c35-85f8-a76bedbacfad)
+<img width="902" height="1023" alt="image" src="https://github.com/user-attachments/assets/2d651836-23b2-45ed-9785-939d165f123d" />
+
 
 
 Prompt History:
