@@ -134,7 +134,7 @@ def enhance_prompt_with_cohere(prompt: str, api_key: str) -> str:
 class PromptApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("traumakom Prompt Generator v1.1.0")
+        self.setWindowTitle("traumakom Prompt Generator v1.2.0")
         self.setWindowIcon(QIcon("assets/firma_trauma_logo.ico"))
         self.setGeometry(100, 100, 900, 600)
         self.setStyleSheet("background-color: #222; color: white; font-size: 16px;")
